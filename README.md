@@ -8,7 +8,8 @@ A simple app that use "https://www.balldontlie.io/" API to download all the data
 ## Home
 In the first view the app show a simple scroll view for players (max 20) and team. 
 
-<img src="[https://github.com/favicon.ico](https://user-images.githubusercontent.com/57951271/177535736-b61bc6c9-1e17-44dc-aba9-e5c840911da6.png)" width="48">
+
+![Home](https://user-images.githubusercontent.com/57951271/177540720-e33e8637-fc1e-42a5-8900-7fbb93ee3679.png)
 
 
 ## Players
